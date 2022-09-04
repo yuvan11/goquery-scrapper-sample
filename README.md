@@ -13,6 +13,6 @@ Creating [goquery-scrapper-sample](https://github.com/yuvan11/goquery-scrapper-s
 
 ## Sample output
 
-        List of URLS:      
-         Review url https://www.google.com/search?q=THE+MARINA+MALL&rlz=1C1CHBD_enIN908IN908&oq=th+&aqs=chrome.1.69i57j69i59l2j69i60l5.2415j0j7&sourceid=chrome&ie=UTF-8#lrd=0x3a525a5ed3d3509d:0x51ba8d5c2f099ebb,1,,,                                                                                                                                 
-         Image URl http://marinamallchennai.com/wp-content/uploads/2020/09/Googlebusiness.png  
+       <h3>Tutorials</h3><p>Follow along with one of our 6,000+ development and sysadmin tutorials.</p><div class="SearchStyles__StyledSearchContainer-sc-exxxze-0 Search___StyledStyledSearchContainer-sc-1ezx7ji-0 hugGew"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="SearchStyles__StyledSearchIcon-sc-exxxze-2 bOWSnL"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg><label class="SearchStyles__StyledSearchLabel-sc-exxxze-1 hzOmLq">Search our catalog</label><input type="text" placeholder="Search our catalog" value="" class="SearchStyles__StyledSearchInput-sc-exxxze-3 gYlwJX"/></div><span>To add a tag to the search, type the tag with [  ] around it</span>                                                                                               
+       
+        Review 0: Tutorials ---------- : Follow along with one of our 6,000+ development and sysadmin tutorials.
